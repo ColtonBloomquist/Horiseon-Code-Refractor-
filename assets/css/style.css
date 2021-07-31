@@ -127,6 +127,10 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+
+.benefits p {
+    padding-bottom: 20px;
+}
 /* End of Side Panel */
 
 /* Footer */
